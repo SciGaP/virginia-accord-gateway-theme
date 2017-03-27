@@ -3,6 +3,11 @@
 </div>
 
 <div class="container">
+
+    <p>
+        <a target="_blank" href="https://cwiki.apache.org/confluence/display/AIRAVATA/Tutorial+Application+Input+Files+and+Parameters">Sample Application Input Files</a>
+    </p>
+
       <p style="text-align:justify">
     Virginia ACCORD (<b>A</b>ssuring <b>C</b>ompliance for <b>Co</b>mputing and <b>R</b>esearch <b>D</b>ata) is a new cyberinstrument project being developed through a partnership between the University of Virginia and eleven Virginia universities and research centers.  The goal of ACCORD is to address a pressing need in the research community by providing a secured, capable, and accessible cyberinstrument that allows diverse data with different protection requirements to be hosted on shared computing resource.      </p>
       <p>
